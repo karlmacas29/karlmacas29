@@ -5,10 +5,10 @@
 ## Links
 <p align="center">
   
-- ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) <a href="https://web.facebook.com/official.karlr.29">Facebook</a>
-- ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) <a href="https://www.instagram.com/karlmacas/?fbclid=IwAR3AfDvwSJT7m1vy4rRm7jifFbXWHWPPil-5GmoN8aHk2WAOiMVgB37BINk">Instagram</a>
-- ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) <a href="https://discordapp.com/users/Ggmacas#2026">Discord</a>
-- ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white) <a href="https://www.threads.net/@karlmacas">Threads</a>
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) <a href="https://web.facebook.com/official.karlr.29">Facebook</a>
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) <a href="https://www.instagram.com/karlmacas/?fbclid=IwAR3AfDvwSJT7m1vy4rRm7jifFbXWHWPPil-5GmoN8aHk2WAOiMVgB37BINk">Instagram</a>
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) <a href="https://discordapp.com/users/Ggmacas#2026">Discord</a>
+![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white) <a href="https://www.threads.net/@karlmacas">Threads</a>
 
 </p>
 
