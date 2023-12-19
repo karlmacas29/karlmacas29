@@ -34,7 +34,7 @@
 
 ## Programming I Used
 
-<h3>Languages</h3>
+<h3>Programming Languages</h3>
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
