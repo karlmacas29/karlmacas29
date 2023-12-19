@@ -4,10 +4,15 @@
 
 ## Links
 
-- <a href="https://web.facebook.com/official.karlr.29">Facebook</a>
-- <a href="https://www.instagram.com/karlmacas/?fbclid=IwAR3AfDvwSJT7m1vy4rRm7jifFbXWHWPPil-5GmoN8aHk2WAOiMVgB37BINk">Instagram</a>
-- <a href="https://discordapp.com/users/Ggmacas#2026">Discord</a>
-- <a href="https://www.threads.net/@karlmacas">Threads</a>
+- ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) <a href="https://web.facebook.com/official.karlr.29">Facebook</a>
+- ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) <a href="https://www.instagram.com/karlmacas/?fbclid=IwAR3AfDvwSJT7m1vy4rRm7jifFbXWHWPPil-5GmoN8aHk2WAOiMVgB37BINk">Instagram</a>
+- ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) <a href="https://discordapp.com/users/Ggmacas#2026">Discord</a>
+- ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white) <a href="https://www.threads.net/@karlmacas">Threads</a>
+
+## Email
+
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) karlracomamacas@gmail.com
+- ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white) karlracomamacas@proton.me
 
 ##
 
@@ -49,6 +54,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+<h3>Others</h3>
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ## IDE
 
