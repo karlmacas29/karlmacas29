@@ -6,6 +6,8 @@
 
 <p align="center"><img src="https://github.com/karlmacas29/karlmacas29/assets/83496597/a7af9c63-d85c-41ec-84f4-02f791018457" width="200" heigth="400"></p>
 
+![](https://komarev.com/ghpvc/?username=karlmacas29&color=blueviolet)
+
 ## Links
 
 - ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) <a href="https://web.facebook.com/official.karlr.29">Facebook</a>
@@ -19,10 +21,6 @@
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) karlracomamacas@gmail.com
 - ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white) karlracomamacas@proton.me
 
-##
-
-![](https://hit.yhype.me/github/profile?user_id=83496597)
-![](https://komarev.com/ghpvc/?username=karlmacas29&color=blueviolet)
 
 ##
 
