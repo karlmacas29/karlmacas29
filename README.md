@@ -1,4 +1,9 @@
-<h1 align="center"> My Personal Information </h1>
+<h1 align="center"> 
+  
+![download](https://github.com/karlmacas29/karlmacas29/assets/83496597/ffb6306b-25e5-4d83-8727-83f3893ace0f)
+
+</h1>
+
 <h3 align="center">Hi My Name is Karl R. Macas</h3>
 <p align="center"><img src="https://github.com/karlmacas29/karlmacas29/assets/83496597/a7af9c63-d85c-41ec-84f4-02f791018457" width="200" heigth="400"></p>
 
